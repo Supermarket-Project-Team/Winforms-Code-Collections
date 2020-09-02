@@ -1,0 +1,10 @@
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\bin\Debug\Shelf_form.exe.config
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\bin\Debug\Shelf_form.exe
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\bin\Debug\Shelf_form.pdb
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.csprojAssemblyReference.cache
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.Form1.resources
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.Properties.Resources.resources
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.csproj.GenerateResource.cache
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.csproj.CoreCompileInputs.cache
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.exe
+F:\Visual studio\CSharp_prgm\Shelf_form\Shelf_form\obj\Debug\Shelf_form.pdb
