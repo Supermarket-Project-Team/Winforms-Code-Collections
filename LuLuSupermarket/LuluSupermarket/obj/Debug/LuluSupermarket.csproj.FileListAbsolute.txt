@@ -1,0 +1,11 @@
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\bin\Debug\LuluSupermarket.exe.config
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\bin\Debug\LuluSupermarket.exe
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\bin\Debug\LuluSupermarket.pdb
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.csprojAssemblyReference.cache
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.form_product.resources
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.form_staff.resources
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.Properties.Resources.resources
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.csproj.GenerateResource.cache
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.csproj.CoreCompileInputs.cache
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.exe
+C:\Users\neemj\source\repos\LuluSupermarket\LuluSupermarket\obj\Debug\LuluSupermarket.pdb
