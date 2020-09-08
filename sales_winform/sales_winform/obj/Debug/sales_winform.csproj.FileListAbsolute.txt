@@ -1,0 +1,10 @@
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\bin\Debug\sales_winform.exe.config
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\bin\Debug\sales_winform.exe
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\bin\Debug\sales_winform.pdb
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.csprojAssemblyReference.cache
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.Form1.resources
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.Properties.Resources.resources
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.csproj.GenerateResource.cache
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.csproj.CoreCompileInputs.cache
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.exe
+C:\Users\KAARTHIK S KUMAR\Source\Repos\Supermarket-Project-Team\Winforms-Code-Collections\sales_winform\sales_winform\obj\Debug\sales_winform.pdb

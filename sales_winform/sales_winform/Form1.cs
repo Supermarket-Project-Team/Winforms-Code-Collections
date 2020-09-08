@@ -21,5 +21,10 @@ namespace sales_winform
         {
 
         }
+
+        private void btn_save_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("saved");
+        }
     }
 }
