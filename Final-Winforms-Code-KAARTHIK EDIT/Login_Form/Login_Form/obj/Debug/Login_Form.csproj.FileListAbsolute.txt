@@ -1,0 +1,159 @@
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Form1.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Customer.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Product.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Purchase.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Shelf.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.Staff.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+F:\Visual studio\CSharp_prgm\Login_Form\Login_Form\obj\Debug\Login_Form.User.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Customer.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Product.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Purchase.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Shelf.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Staff.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.User.resources
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+C:\Users\neemj\Source\Repos\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_login.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_Customer.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_Product.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_Staff.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_User.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_vendor.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_Purchase.resources
+C:\Users\MyPc\Source\Repos\Supermarket-Project-Team\Final-Winforms-Code-Design\Login_Form\Login_Form\obj\Debug\Login_Form.form_Shelf.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Customer.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_login.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Product.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Purchase.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Shelf.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Staff.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_User.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_vendor.resources
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+F:\Visual studio\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Customer.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_login.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Product.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Purchase.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Shelf.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_Staff.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_User.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.form_vendor.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms-Code-Design-master\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Customer.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_login.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Product.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Purchase.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Shelf.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Staff.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_User.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_vendor.resources
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+F:\Visual studio\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csprojAssemblyReference.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.AdminLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Billing.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Category.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Customer.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_login.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.ManagerLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Product.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Purchase.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.SalesmanLanding.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Shelf.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_Staff.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.SubCategory.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_User.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.form_vendor.resources
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+C:\Users\KAARTHIK S KUMAR\Desktop\project\Final-Winforms final\Final-Winforms-Code-KAARTHIK EDIT\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
